@@ -1,5 +1,0 @@
-C:\Users\张仁翔\Desktop\坡度基点云滤波\坡度基滤波.exe
-C:\Users\张仁翔\Desktop\坡度基点云滤波\坡度基滤波.dll
-C:\Users\张仁翔\Desktop\坡度基点云滤波\坡度基滤波.deps.json
-C:\Users\张仁翔\Desktop\坡度基点云滤波\坡度基滤波.runtimeconfig.json
-C:\Users\张仁翔\Desktop\坡度基点云滤波\坡度基滤波.pdb
