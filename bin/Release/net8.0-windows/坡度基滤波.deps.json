@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "坡度基滤波/1.0.0": {
+        "runtime": {
+          "坡度基滤波.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "坡度基滤波/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

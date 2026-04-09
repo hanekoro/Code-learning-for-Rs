@@ -1,0 +1,16 @@
+D:\数据\坡度基滤波\坡度基滤波\bin\Release\net8.0-windows\坡度基滤波.exe
+D:\数据\坡度基滤波\坡度基滤波\bin\Release\net8.0-windows\坡度基滤波.deps.json
+D:\数据\坡度基滤波\坡度基滤波\bin\Release\net8.0-windows\坡度基滤波.runtimeconfig.json
+D:\数据\坡度基滤波\坡度基滤波\bin\Release\net8.0-windows\坡度基滤波.dll
+D:\数据\坡度基滤波\坡度基滤波\bin\Release\net8.0-windows\坡度基滤波.pdb
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.MainForm.resources
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.csproj.GenerateResource.cache
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.GeneratedMSBuildEditorConfig.editorconfig
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.AssemblyInfoInputs.cache
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.AssemblyInfo.cs
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.csproj.CoreCompileInputs.cache
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.dll
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\refint\坡度基滤波.dll
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.pdb
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\坡度基滤波.genruntimeconfig.cache
+D:\数据\坡度基滤波\坡度基滤波\obj\Release\net8.0-windows\ref\坡度基滤波.dll
